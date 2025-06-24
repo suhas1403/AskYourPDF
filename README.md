@@ -148,4 +148,4 @@ This project runs entirely locally. No data is sent to the cloud. Your documents
 
 ## 📸 Demo
 
-![PDF Q&A Chatbot Screenshot](assets/screenshot.png)
+![PDF Q&A Chatbot Screenshot](assets/screenshot.jpg)
