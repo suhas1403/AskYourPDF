@@ -31,7 +31,7 @@ This project is a private, offline chatbot that answers questions based on PDF d
 
 ```bash
 git clone https://github.com/suhas1403/AskYourPDF.git
-cd cd AskYourPDF
+cd AskYourPDF
 ```
 
 ### 2. Install Dependencies
