@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sentence-transformers
+faiss-cpu
+scikit-learn
+PyMuPDF
+llama-cpp-python
+langchain
+streamlit

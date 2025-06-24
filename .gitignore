@@ -1,0 +1,85 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+.env
+*.env
+.venv/
+venv/
+ENV/
+env/
+AskYourPDFenv/
+
+# Python packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+*.spec
+
+# PyInstaller
+*.spec
+
+# Logs and debug
+*.log
+*.out
+*.pid
+*.err
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# FastAPI + Uvicorn logs
+*.db
+*.sqlite3
+
+# Uploaded PDFs and generated files
+uploaded/
+*.pdf
+
+# FAISS Indexes or embeddings
+*.faiss
+*.pkl
+*.npy
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode and IDE settings
+.vscode/
+.idea/
+
+# Compiled libraries
+*.so
+
+# Llama-cpp or model files
+*.gguf
+*.bin
+*.ggml
+models/
+
+# Streamlit cache
+.streamlit/
+
+# Temporary files
+*.tmp
